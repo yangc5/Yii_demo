@@ -1,0 +1,6 @@
+[Wed Jun 03 14:36:29.082022 2015] [:error] [pid 9023] [client 10.71.55.34:55685] PHP Fatal error:  Using $this when not in object context in /home/cyang/yii_projects/basic/views/site/index.php on line 3
+[Wed Jun 03 14:36:34.262668 2015] [:error] [pid 9025] [client 10.71.55.34:55690] PHP Fatal error:  Using $this when not in object context in /home/cyang/yii_projects/basic/views/site/index.php on line 3
+[Wed Jun 03 14:38:28.341527 2015] [:error] [pid 9025] [client 10.71.55.34:55693] PHP Fatal error:  Using $this when not in object context in /home/cyang/yii_projects/basic/views/site/index.php on line 3
+[Wed Jun 03 14:39:31.350691 2015] [:error] [pid 9026] [client 10.71.55.34:55695] PHP Fatal error:  Using $this when not in object context in /home/cyang/yii_projects/basic/views/site/index.php on line 3
+[Wed Jun 03 14:40:07.062998 2015] [:error] [pid 9025] [client 10.71.55.34:55704] PHP Fatal error:  Using $this when not in object context in /home/cyang/yii_projects/basic/views/site/index.php on line 3
+[Wed Jun 03 15:30:51.985211 2015] [:error] [pid 12726] [client 10.71.55.34:55736] script '/home/cyang/yii_projects/index.php' not found or unable to stat
