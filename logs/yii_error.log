@@ -5,3 +5,13 @@
 [Wed Jun 03 14:40:07.062998 2015] [:error] [pid 9025] [client 10.71.55.34:55704] PHP Fatal error:  Using $this when not in object context in /home/cyang/yii_projects/basic/views/site/index.php on line 3
 [Wed Jun 03 15:30:51.985211 2015] [:error] [pid 12726] [client 10.71.55.34:55736] script '/home/cyang/yii_projects/index.php' not found or unable to stat
 [Thu Jun 04 13:39:00.992236 2015] [:error] [pid 5987] [client 10.71.55.34:56143] script '/home/cyang/yii_projects/index.php' not found or unable to stat
+[Thu Jun 04 14:42:03.739077 2015] [:error] [pid 25193] [client 10.71.55.34:56275] script '/home/cyang/yii_projects/index.php' not found or unable to stat
+[Thu Jun 04 14:42:22.951824 2015] [:error] [pid 5986] [client 10.71.55.34:56287] script '/home/cyang/yii_projects/index.php' not found or unable to stat
+[Thu Jun 04 14:47:46.032965 2015] [:error] [pid 31101] [client 10.71.55.34:56292] script '/home/cyang/yii_projects/index.php' not found or unable to stat
+[Thu Jun 04 14:47:46.986773 2015] [:error] [pid 31101] [client 10.71.55.34:56292] script '/home/cyang/yii_projects/index.php' not found or unable to stat
+[Thu Jun 04 14:47:48.175961 2015] [:error] [pid 31101] [client 10.71.55.34:56292] script '/home/cyang/yii_projects/index.php' not found or unable to stat
+[Thu Jun 04 14:48:17.686463 2015] [:error] [pid 31173] [client 10.71.55.34:56298] script '/home/cyang/yii_projects/index.php' not found or unable to stat
+[Thu Jun 04 14:48:18.589145 2015] [:error] [pid 31173] [client 10.71.55.34:56298] script '/home/cyang/yii_projects/index.php' not found or unable to stat
+[Thu Jun 04 14:54:05.771380 2015] [:error] [pid 31631] [client 10.71.55.34:56311] script '/home/cyang/yii_projects/index.php' not found or unable to stat
+[Thu Jun 04 15:20:51.906362 2015] [:error] [pid 1034] [client 10.71.55.34:56330] script '/home/cyang/yii_projects/index.php' not found or unable to stat
+[Thu Jun 04 15:25:26.059824 2015] [:error] [pid 1592] [client 10.71.55.34:56337] script '/home/cyang/yii_projects/index.php' not found or unable to stat
