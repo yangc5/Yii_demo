@@ -47,3 +47,11 @@
 [Tue Jun 09 15:26:12.416720 2015] [autoindex:error] [pid 18867] [client 10.71.55.34:58181] AH01276: Cannot serve directory /home/cyang/yii_projects/mp/frontend/web/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
 [Tue Jun 09 15:27:22.041706 2015] [autoindex:error] [pid 18865] [client 10.71.55.34:58186] AH01276: Cannot serve directory /home/cyang/yii_projects/mp/frontend/web/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
 [Tue Jun 09 15:33:14.027560 2015] [:error] [pid 19296] [client 10.71.55.34:58202] script '/home/cyang/yii_projects/mp/frontend/web/index.php' not found or unable to stat
+[Wed Jan 13 11:20:40.748406 2016] [:error] [pid 31793] [client 192.168.201.34:57056] script '/home/cyang/yii_projects/basic/index-test.php' not found or unable to stat
+[Wed Jan 13 11:20:40.795516 2016] [:error] [pid 31794] [client 192.168.201.34:57057] script '/home/cyang/yii_projects/basic/index-test.php' not found or unable to stat
+[Wed Jan 13 11:20:40.799593 2016] [:error] [pid 11136] [client 192.168.201.34:57058] script '/home/cyang/yii_projects/basic/index-test.php' not found or unable to stat
+[Wed Jan 13 11:20:40.803137 2016] [:error] [pid 11138] [client 192.168.201.34:57059] script '/home/cyang/yii_projects/basic/index-test.php' not found or unable to stat
+[Wed Jan 13 11:26:48.596953 2016] [:error] [pid 31790] [client 192.168.201.34:57062] script '/home/cyang/yii_projects/basic/index-test.php' not found or unable to stat
+[Wed Jan 13 11:26:48.613680 2016] [:error] [pid 31791] [client 192.168.201.34:57063] script '/home/cyang/yii_projects/basic/index-test.php' not found or unable to stat
+[Wed Jan 13 11:26:48.616878 2016] [:error] [pid 31792] [client 192.168.201.34:57064] script '/home/cyang/yii_projects/basic/index-test.php' not found or unable to stat
+[Wed Jan 13 11:26:48.619751 2016] [:error] [pid 31794] [client 192.168.201.34:57065] script '/home/cyang/yii_projects/basic/index-test.php' not found or unable to stat
