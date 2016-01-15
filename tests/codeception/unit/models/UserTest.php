@@ -3,6 +3,7 @@
 namespace tests\codeception\unit\models;
 
 use yii\codeception\TestCase;
+use app\tests\codeception\unit\fixtures\UserFixture;
 
 class UserTest extends TestCase
 {
@@ -13,6 +14,7 @@ class UserTest extends TestCase
 
     protected function setUp()
     {
+        User::deleteAll();
         parent::setUp();
         $this->_user = new User;
 
